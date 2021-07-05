@@ -1,9 +1,9 @@
 # Recommendation-System
 
-Neural network with pytorch
-Data Preprocessing
+- Neural network with pytorch
+- Data Preprocessing
 
-Content-based Filtering
-Collaborative Filtering
+- Content-based Filtering
+- Collaborative Filtering
 
-make Movie Recommendation-System
+- make Movie Recommendation-System
