@@ -2,6 +2,7 @@
 
 - Neural network with pytorch
 - Data Preprocessing
+- regression analysis
 
 - Content-based Filtering
 - Collaborative Filtering
