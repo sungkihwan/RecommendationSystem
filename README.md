@@ -2,9 +2,9 @@
 
 - Neural network with pytorch
 - Data Preprocessing
-- regression analysis
+- Regression analysis
 
 - Content-based Filtering
 - Collaborative Filtering
 
-- make Movie Recommendation-System
+- Make Movie Recommendation-System
