@@ -1,4 +1,4 @@
-# Recommendation-System
+# RecommendationSystem
 
 - Neural network with pytorch
 - Data Preprocessing
